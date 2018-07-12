@@ -1,5 +1,5 @@
 (function () {
-	var ret = ""
+	var ret = "";
 	var arr = [
 		"a", "b", "c", "d", "e",
 		"f", "g", "h", "i", "j",
